@@ -32,7 +32,7 @@ A Member’s account is setup, access is granted to the organization, and Member
 
 See table below for member data
 
-**_Expected Rsults_**
+**_Expected Results_**
 
 * Member has an IAL of 2 set in the identity provider
 * Member acceptance of TOS is recorded in the DB
