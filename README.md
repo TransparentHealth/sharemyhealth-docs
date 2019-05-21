@@ -9,7 +9,7 @@ This repositoruy shall initialy contain multiple Markdown documents which pertai
 Each Test Case document will serve as a guide to help testers walk through system functionality.  Please include screen shots liberaly.
 
 
-### **Org Agent Onboards Member and Views Health Information**
+## **Organizational Agent Onboards Member and Views Health Information**
 
 **_Tets Objective_**
 
@@ -41,7 +41,7 @@ See table below for member data
 
 **_Actual Results_**
 
-### **Organizational Agent Searches for the Existing Member**
+## **Organizational Agent Searches for the Existing Member**
 
 **_Tets Objective_**
 
