@@ -1,6 +1,14 @@
 Organizational Agent Onboards Member and Views Health Information
 =================================================================
 
+
+
+**_Endpoint_**
+
+From the Organizational Agent's account, https://app.sharemy.health/org/dashboard  then click "Create Account"
+
+
+
 **_Tets Objective_**
 
 A Member’s account is setup, access is granted to the organization, and Member connects HIXNY data source for self/org viewing.
