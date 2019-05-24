@@ -9,7 +9,7 @@ From the Organizational Agent's account, https://app.sharemy.health/org/dashboar
 
 
 
-**_Tets Objective_**
+**_Test Objective_**
 
 A Member’s account is setup, access is granted to the organization, and Member connects HIXNY data source for self/org viewing.
 
