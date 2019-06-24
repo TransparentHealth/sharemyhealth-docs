@@ -17,7 +17,7 @@ Organizational Agent and member sits down and searches for members background an
 **_Steps_**
 
 * The organization agent sits down with existing member 
-** Both the member and the organization agent are logged in
+> * Both the member and the organization agent are logged in
 * The organization agent searches for the member
-* Afetr finding the meber the organization agent asks the member to approve access to their secure information
-* The member approves access and now ahs the ability to share and select the organizations where he/she rceives services
+* After finding the member the organization agent asks the member to approve access to their secure information
+* The member approves access and now has the ability to share and select the organizations where he/she receives services
